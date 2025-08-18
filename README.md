@@ -1,4 +1,4 @@
-Hi, I’m Yuchen Wang!
+# Hi, I’m Yuchen Wang!
 
 I’m a **Computer Science** student with interest in **AI model architectures and reinforcement learning**. I love diving into fundamental architectures and algorithms behind modern machine learning.  
 

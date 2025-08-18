@@ -1,6 +1,6 @@
 Hi, I’m Yuchen Wang 👨‍💻  
 
-I’m a **Computer Science** student at the University of Michigan with a passion for **AI model architectures and reinforcement learning**. I love diving deep into the **fundamental architectures and algorithms** behind modern machine learning, while also bringing them to life in interactive projects and real-world applications.  
+I’m a **Computer Science** student with interest in **AI model architectures and reinforcement learning**. I love diving into fundamental architectures and algorithms behind modern machine learning.  
 
 Currently, I’m building projects that explore:  
 - 🧠 **Reinforcement Learning** (CartPole, policy gradients, co-evolution simulations)  

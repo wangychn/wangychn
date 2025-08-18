@@ -26,14 +26,6 @@ Here are the tools and technologies I’ve been working with:
 
 ---
 
-## 📌 Highlight Projects
-
-- 🎮 **RL CartPole Agent** — DQN + Policy Gradient implementation with visual demo  
-
-TODO
-
----
-
 ## 📫 Get in touch
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)

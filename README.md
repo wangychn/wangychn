@@ -1,11 +1,4 @@
-# I’m Yuchen Wang
-
-I’m a **Computer Science** student with interest in **AI model architectures and reinforcement learning**. I love diving into fundamental architectures and algorithms behind modern machine learning.  
-
-Currently, I’m building projects that explore:  
-1. **Reinforcement Learning** (CartPole, policy gradients, co-evolution simulations)  
-2. **Practical AI Applications** (RAG systems, chatbot pipelines, AI-integrated desktop apps)
-3. **Full-Stack Development** (React, Astro, Electron, LangChain)  
+I’m a **Computer Science** student with interest in **AI model architectures and reinforcement learning**.
 
 #### 🔭 Check out my [Portfolio Website](https://yuchen-portfolio-tan.vercel.app)  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C1C1C?style=for-the-badge&logo=chainlink&logoColor=white)  

@@ -1,4 +1,4 @@
-I’m a **Computer Science** student with interest in **AI model architectures and reinforcement learning**.
+CS@UMich with interest in **AI model architectures** and **distributed training**.
 
 #### 🔭 Check out my [Portfolio Website](https://yuchen-portfolio-one.vercel.app)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
